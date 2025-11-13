@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student AGH, ISI
 ----------------
 
-Jestem studentem AGH, ISI 1 roku, zajmuje się pszczelarstem, oraz fotografią.
+Jestem studentem AGH, ISI 3 roku, zajmuje się pszczelarstem, oraz fotografią.
 
 *   🌍  I'm based in Poland
 *   🧠  I'm learning C, C++, Python
